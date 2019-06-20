@@ -1,6 +1,6 @@
 # Anony Upload Center
 
-(https://raw.githubusercontent.com/WZTNet/Anony-Upload-Center/master/shot.jpg)
+![](https://raw.githubusercontent.com/WZTNet/Anony-Upload-Center/master/shot.jpg)
 
 upload your file from local or remote to anonymous drive for permanently.
 
