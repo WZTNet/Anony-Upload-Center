@@ -2,6 +2,10 @@
 
 upload your file from local or remote to anonymous drive for permanently.
 
+* Download Win: 
+* Download Linux:
+* Download Web: https://drive.google.com/uc?id=1u8vVYQ3AYWRcQk2UyY_mV_6kdhOxYb0t
+
 ## Features
 1. CrossPlatform Win\Linux\Web
 2. Anonymous Upload your file upload.
