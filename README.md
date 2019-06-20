@@ -4,8 +4,8 @@
 
 upload your file from local or remote to anonymous drive for permanently.
 
-* Download Win: 
-* Download Linux:
+* Download Win: https://drive.google.com/uc?id=1wlgPAriUcQVrz6aNrwYpJYE9PcXVNqCO
+* Download Linux: https://drive.google.com/uc?id=1J3ArijAU_WWD0L0wxZKSAQy0xAykOPZ4
 * Download Web: https://drive.google.com/uc?id=1u8vVYQ3AYWRcQk2UyY_mV_6kdhOxYb0t
 
 ## Features
