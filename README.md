@@ -1,12 +1,9 @@
 # Anony Upload Center
 
-![](https://raw.githubusercontent.com/WZTNet/Anony-Upload-Center/master/shot.jpg)
 
 upload your file from local or remote to anonymous drive for permanently.
 
-* Download Win: 
-* Download Linux: 
-* Download Web: 
+* Link Upload Center: http://wztnet.rf.gd/008CE65FC2CB4185A6EFDD61FC11881E8C2D0ED7/handler.html
 
 ## Features
 1. CrossPlatform Win\Linux\Web
