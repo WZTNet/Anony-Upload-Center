@@ -1,9 +1,10 @@
 # Anony Upload Center
 
-
 upload your file from local or remote to anonymous drive for permanently.
 
-* Link Upload Center: http://wztnet.rf.gd/008CE65FC2CB4185A6EFDD61FC11881E8C2D0ED7/handler.html
+* Upload Center [ SV1 ]: http://anony.rf.gd 
+* Upload Center [ SV2 ]: http://anonfile.rf.gd 
+* Upload Center [ SV3 ]: http://bit.ly/AnonyUC
 
 ## Features
 1. CrossPlatform Win\Linux\Web
